@@ -68,3 +68,4 @@ Teacher.find({}).remove(() => {
     }
   );
 });
+
